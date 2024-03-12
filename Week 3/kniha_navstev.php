@@ -31,6 +31,9 @@
       $vystup.= $text;
       $vystup.='<br>';
     }
+    // TODO:
+    // chybu zapis, presmerovani a include
+    // kouknut na php objekty
 
   }
 ?><!DOCTYPE html>
