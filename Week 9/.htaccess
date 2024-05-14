@@ -1,0 +1,4 @@
+AuthUserFile /home/httpd/html/users/obum00/week9/login/.htpasswd
+AuthType Basic
+AuthName "My restricted Area"
+Require valid-user

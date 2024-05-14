@@ -1,0 +1,4 @@
+Mám update_optimistic.php na serveru, ale nemohu importovat sql schéma, jak jste poskytli.
+
+Tady je však odkaz:
+https://eso.vse.cz/~obum00/week9/09-app-eshop/
